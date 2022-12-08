@@ -6,7 +6,7 @@ import (
 
 func CreateA() A{
        a1 := A{
-           S: "s1.1.1",
+           S: "s2.0.0",
            I: 1,
 	}
        log.WithFields(log.Fields{
