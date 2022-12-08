@@ -1,6 +1,6 @@
 package a
 import (
-        . "github.com/arzzon/test-version-update/pkg/types"
+        . "github.com/arzzon/test-version-update/v2/pkg/types"
         log "github.com/sirupsen/logrus"
 )
 

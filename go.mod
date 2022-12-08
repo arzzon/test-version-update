@@ -1,4 +1,4 @@
-module github.com/arzzon/test-version-update
+module github.com/arzzon/test-version-update/v2
 
 go 1.17
 

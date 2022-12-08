@@ -1,6 +1,6 @@
 package main
 import (
-        . "github.com/arzzon/test-version-update/pkg/a"
+        . "github.com/arzzon/test-version-update/v2/pkg/a"
         log "github.com/sirupsen/logrus"	
 )
 func main(){
