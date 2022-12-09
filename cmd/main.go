@@ -5,7 +5,7 @@ import (
 )
 func main(){
         log.WithFields(log.Fields{
-        "Version": "V2.2.0",
+        "Version": "V2.2.1",
        }).Info("")
 	a1 := CreateA()
 	log.WithFields(log.Fields{
